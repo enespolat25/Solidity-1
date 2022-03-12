@@ -16,7 +16,7 @@ contract Variable{
     //bool varsayılan false;
     
     //string
-    string public isim="miuul";
+    string public isim="enes";
     
     //bytes
     bytes public bytedeger="ABC";//0x414243
