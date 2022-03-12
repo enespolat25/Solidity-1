@@ -2,8 +2,8 @@ pragma solidity >=0.7.0 <0.9.0;
 
 contract Variable2{
     //arrays
-    string[] public names=["miuul","vahit","enes"];
-    string[4] public names2=["miuul","vahit","enes"];
+    string[] public names=["acm","enes","berna"];
+    string[4] public names2=["hacettepe","turktelekom","enes"];
     
     //mapping ->dictionary key->values
     mapping(uint8=>uint8) public ogrenciler;
